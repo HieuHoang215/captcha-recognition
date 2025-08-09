@@ -1,2 +1,2 @@
 # captcha-recognition
-![Captcha Recognition and GAN for Data Augmentation](poster.jpg)
+![Captcha Recognition and GAN for Data Augmentation](Poster.jpg)
